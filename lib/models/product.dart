@@ -43,4 +43,18 @@ final List<Product> sampleProducts = [
     price: 22000,
     imageUrl: 'https://puromotor.com/wp-content/uploads/2022/09/P90480032_highRes_the-new-bmw-s-1000-r.jpg',
   ),
+  Product(
+    id: '5',
+    name: 'GSXR 1000',
+    description: 'Cutting-edge superbike with race-level performance.',
+    price: 22000,
+    imageUrl: 'https://www.motociclismo.es/uploads/s1/65/91/31/5/article-suzuki-gsxr-1000-1000r-2017-toda-una-revolucion-57f3a097d4f04.jpeg',
+  ),
+  Product(
+    id: '6',
+    name: 'PULSAR 200',
+    description: 'Cutting-edge superbike with race-level performance.',
+    price: 10000,
+    imageUrl: 'https://images.carandbike.com/cms/articles/2025/4/3205535/2025_Bajaj_Pulsar_NS_200_Single_Channel_ABS_spy_shot_m1_c5315c9aa3.jpg',
+  ),
 ];
